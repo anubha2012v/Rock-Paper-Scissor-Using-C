@@ -1,4 +1,4 @@
 # Rock-Paper-Scissor-Using-C
 
 
-<img  src="https://giphy.com/gifs/cbs-eric-ncis-los-angeles-26FLaFO3cGWxt2qHe" width="300px">
+<img  src="https://media.giphy.com/media/26FLaFO3cGWxt2qHe/giphy.gif" width="300px">
