@@ -1,4 +1,4 @@
 # Rock-Paper-Scissor-Using-C
 
 
-<img  src="https://giphy.com/gifs/26FLaFO3cGWxt2qHe/html5" width="300px">
+<img  src="https://media.giphy.com/media/26FLaFO3cGWxt2qHe/giphy.gif" width="500px">
