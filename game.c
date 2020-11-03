@@ -44,6 +44,7 @@ int greater(char char1, char char2)
 }
 int main()
 {
+    
     int playerScore = 0, compScore = 0, temp;
     char playerChar, compChar;
     char dict[] = {'r', 'p', 's'};
