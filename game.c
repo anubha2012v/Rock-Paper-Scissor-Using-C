@@ -28,6 +28,7 @@ int greater(char char1, char char2)
     {
         return 1;
     }
+    
     else if ((char2 == 'p') && (char1 == 'r'))
     {
         return 0;
